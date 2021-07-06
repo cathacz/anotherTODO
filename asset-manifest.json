@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/cathacz/anotherTODO.git/static/css/main.cb00de72.chunk.css",
-    "main.js": "/cathacz/anotherTODO.git/static/js/main.f2cd7fa9.chunk.js",
-    "main.js.map": "/cathacz/anotherTODO.git/static/js/main.f2cd7fa9.chunk.js.map",
+    "main.css": "/cathacz/anotherTODO.git/static/css/main.236bb4b5.chunk.css",
+    "main.js": "/cathacz/anotherTODO.git/static/js/main.bbf0ad0b.chunk.js",
+    "main.js.map": "/cathacz/anotherTODO.git/static/js/main.bbf0ad0b.chunk.js.map",
     "runtime-main.js": "/cathacz/anotherTODO.git/static/js/runtime-main.ce128283.js",
     "runtime-main.js.map": "/cathacz/anotherTODO.git/static/js/runtime-main.ce128283.js.map",
     "static/js/2.225276b4.chunk.js": "/cathacz/anotherTODO.git/static/js/2.225276b4.chunk.js",
     "static/js/2.225276b4.chunk.js.map": "/cathacz/anotherTODO.git/static/js/2.225276b4.chunk.js.map",
     "index.html": "/cathacz/anotherTODO.git/index.html",
-    "static/css/main.cb00de72.chunk.css.map": "/cathacz/anotherTODO.git/static/css/main.cb00de72.chunk.css.map",
+    "static/css/main.236bb4b5.chunk.css.map": "/cathacz/anotherTODO.git/static/css/main.236bb4b5.chunk.css.map",
     "static/js/2.225276b4.chunk.js.LICENSE.txt": "/cathacz/anotherTODO.git/static/js/2.225276b4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ce128283.js",
     "static/js/2.225276b4.chunk.js",
-    "static/css/main.cb00de72.chunk.css",
-    "static/js/main.f2cd7fa9.chunk.js"
+    "static/css/main.236bb4b5.chunk.css",
+    "static/js/main.bbf0ad0b.chunk.js"
   ]
 }
