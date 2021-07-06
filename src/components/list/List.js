@@ -45,7 +45,7 @@ export default class List extends React.Component {
             onChange={this.changeHandle}
             placeholder="type something"
           />
-          <input type="submit" value="Add" />
+          <input type="submit" value="+" />
         </form>
         <UserList
           list={this.state.list}

@@ -1,0 +1,13 @@
+input {
+  padding: 0.4rem;
+}
+.check {
+  margin: 0.4rem;
+}
+
+i {
+  font-style: normal;
+  &:hover {
+    cursor: pointer;
+  }
+}
